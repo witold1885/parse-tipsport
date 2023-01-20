@@ -1,4 +1,7 @@
 {
+	"puppeteer": {
+		"executablePath": "C:\Program Files\Google\Chrome\Application\chrome.exe"
+	},
 	"home_url": "https://www.tipsport.cz",
 	"parse_url": "https://www.tipsport.cz/live/ledni-hokej-23",
 	"data": {
