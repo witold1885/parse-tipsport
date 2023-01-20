@@ -1,20 +1,13 @@
-# of-bot
+# Tipsport parser
 
 ## Requirements
   Node.js v14+
 
-## INSTALLATION
-Install dependencies:
+## Installation
+Install dependencies: run ```npm install```
 
-Run ```npm install```
+## App launch
+Run ```npm run start``` or ```node app``` in the application directory
 
-## APP LAUNCH
-Run 
-
-```npm run start```
-
-or
-
-```node app```
-
-in the application directory
+## Results
+Results can be found in ```results.txt``` file
