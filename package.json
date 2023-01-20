@@ -1,0 +1,16 @@
+{
+  "name": "hockey",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "WN",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^2.2.0",
+    "moment": "^2.29.4",
+    "puppeteer": "^19.5.2"
+  }
+}
